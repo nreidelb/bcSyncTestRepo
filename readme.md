@@ -1,4 +1,3 @@
-Repository Init Content
+This project will be kept in sync with a business central repo
 =======================
-
-Your project description here.
+The bcSync project will do the syncrhonization.
