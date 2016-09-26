@@ -2,9 +2,13 @@ This is a simple file; just a simple file
 I made a very different file after revisions happened and then there were more revisions
 This is a diferent
 
+<<<<<<< HEAD
 
 UPSTREAM CHANGES!!!!
 MORE UPSTREAM CHANGES
 NOW I"M OUT OF SYNC!!!
+=======
+Overwrote upstream changes
+>>>>>>> 961ba5f708214100303b796f50623d2e72eb45fb
 
 --------------------------------------------------
