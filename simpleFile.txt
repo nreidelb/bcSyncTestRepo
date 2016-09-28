@@ -1,7 +1,7 @@
 This is a simple file; just a simple file
 I made a very different file after revisions happened and then there were more revisions
 
-UPSTREAM CHANGES!!!!
-MORE UPSTREAM CHANGES
+Lets change this.
 
 --------------------------------------------------
+<><><><><><><><><><><><><><><><><><><><><><><><><>
